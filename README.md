@@ -1,8 +1,8 @@
 # Appium with py.test
 
-Example of how I'm currently using py.test with tests written with [Appium](http://appium.io/) modeled closely to how [Mozilla's WebQA framework](https://github.com/mozilla/mozwebqa-test-templates).
+Example of how I'm currently using py.test with tests written with [Appium](http://appium.io/) modeled closely to [Mozilla's WebQA framework](https://github.com/mozilla/mozwebqa-test-templates).
 
-You can clone this repo and run the example tests provided -- test iOS app is provided by the [Appium Python Client](https://github.com/appium/python-client) project. You'll need to make sure that you set up your enironment properly using the [Appium documentation](http://appium.io/slate/en/master/?python#setting-up-appium).
+You can clone this repo and run the example tests provided -- test iOS app is provided by the [Appium Python Client](https://github.com/appium/python-client) project. You'll need to make sure that you set up your environment properly using the [Appium documentation](http://appium.io/slate/en/master/?python#setting-up-appium).
 
 ## File overview
 
