@@ -1,4 +1,4 @@
-Appium-Python-Client==0.9
+Appium-Python-Client==1.0.2
 enum34==1.0
 py==1.4.23
 pytest==2.6.1
